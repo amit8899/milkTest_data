@@ -1,4 +1,4 @@
 {
-    "toRunMilkTest": "True",
+    "toRunMilkTest": "false",
     "anotherElement":"Ohh, why didn't you pick me"
 }
